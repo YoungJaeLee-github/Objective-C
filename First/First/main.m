@@ -9,8 +9,9 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        int wheels = 4;
+        int seats = 2;
+        NSLog(@"Wheels: %i, Seats: %i", wheels, seats);
     }
     return 0;
 }
