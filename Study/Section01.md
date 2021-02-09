@@ -21,7 +21,7 @@
   
 </pre>
 
-### 객체 사용
+### 객체 정의 및 구현
 <pre>
 
 	@interface Vehicle : NSObject
