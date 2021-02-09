@@ -25,9 +25,11 @@
 <pre>
 
 	@interface Vehicle : NSObject
+	
 	@end
   
 	@implementation Vehicle
+	
 	@end
   
 </pre>
